@@ -1,0 +1,7 @@
+logs/
+target/
+dbs/
+users.db
+.lein-repl-history
+resources/config
+resources/log4j.properties
